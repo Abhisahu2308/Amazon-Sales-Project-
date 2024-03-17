@@ -1,5 +1,6 @@
 # Power bi - Amazon Sales Dashboard
 This is a Amazon Sales Analysis Project Using POWER BI 
+
 Follow me on linkedin :- linkedin.com/in/abhisahuab
 
 Project Title: Amazon Sales Dashboard Creation
